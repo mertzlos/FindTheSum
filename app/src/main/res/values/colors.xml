@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>>
+    <color name="colorBlack">#000</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorGrey">#4d4d4d</color>
+    <color name="colorLightSky">#b2fbff</color>
+    <color name="colorGreenLight">#64DD17</color>
+    <color name="colorRed">#ff181c</color>
+    <color name="backgroundColor">#EFEBE9</color>
+    <color name="tableLayoutColor">#757575</color>
+    <color name="tileColorDefault">#D7CCC8</color>
+    <color name="textColor">#3E2723</color>
+    <color name="orange">#FF6D00</color>
+    <color name="onPressBlue">#039BE5</color>
+</resources>
