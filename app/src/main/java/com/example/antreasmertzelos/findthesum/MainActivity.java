@@ -38,6 +38,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //test
+
         tilesLayout = (TableLayout) findViewById(R.id.tiles);
         sumResult = (TextView) findViewById(R.id.sumResult);
 
